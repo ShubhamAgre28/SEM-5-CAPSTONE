@@ -1,0 +1,6 @@
+[submodule "smart-mart-management-system"]
+	path = smart-mart-management-system
+	url = https://github.com/ShubhamAgre28/smart-mart-management-system.git
+[submodule "PLC-Forward-Reverse-Motor-Control"]
+	path = PLC-Forward-Reverse-Motor-Control
+	url = https://github.com/ShubhamAgre28/PLC-Forward-Reverse-Motor-Control.git
